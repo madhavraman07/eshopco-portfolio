@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>eShopCo Work Showcase</title>
+</head>
+<body>
+  <h1>eShopCo Projects by Madhav Raman</h1>
+  <p>Welcome! This page showcases my recent deployments and case studies.</p>
+
+  <h2>Contact</h2>
+  <p>Email: <!--email_off-->24f2002722@ds.study.iitm.ac.in<!--/email_off--></p>
+
+  <p>View my projects on <a href="https://github.com/madhavraman07">GitHub</a>.</p>
+</body>
+</html>
